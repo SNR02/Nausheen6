@@ -28,4 +28,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nausheen6&theme=dracula" alt="nausheen6" /></p>
 
-[![Nausheen's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=NAUSHEEN6&theme=dracula)](https://github.com/NAUSHEEN6/github-readme-activity-graph)
+[![Nausheen's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nausheen6&theme=dracula)](https://github.com/NAUSHEEN6/github-readme-activity-graph)
